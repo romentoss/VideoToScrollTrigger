@@ -1,0 +1,18 @@
+# Salida generada por build.py (el nombre es libre via -o, por eso el glob amplio)
+*.html
+
+# Carpetas de trabajo intermedias (frames extraidos)
+.scroll*_work/
+
+# Videos de entrada
+*.mp4
+*.mov
+*.webm
+*.avi
+*.mkv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
