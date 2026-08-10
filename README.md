@@ -1,6 +1,8 @@
 # video-to-frames
 
-Convierte un video en un **HTML atomico y auto-contenido** que se anima con scroll. Un solo archivo. Sin dependencias locales. Abrelo con doble clic, pegalo en una web, subelo a LinkedIn.
+Convierte un video en un **HTML atomico y auto-contenido** que se anima con scroll. Un solo archivo. Sin dependencias locales. Abrelo con doble clic, pegalo en una web o mandalo por correo: no necesita servidor ni hace ninguna peticion de red.
+
+> Para redes sociales (LinkedIn, X...) no sirve subir el HTML: no alojan contenido interactivo. Graba la pantalla del archivo abierto y publica ese video.
 
 ## Instalacion
 
